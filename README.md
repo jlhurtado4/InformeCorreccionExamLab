@@ -131,7 +131,11 @@ Por ultimo calculamos thevenin conectando la resistencia RL, y usamos la formula
 
 ![alt text](https://github.com/jlhurtado4/InformeCorreccionExamLab/blob/main/deber%20extra/Ejercicio%203_3%20TH.jpg)
 
-4. CONCLUSIONES
+4. VIDEO
+
+https://www.youtube.com/watch?v=yoGGTfONnwE&t=7s
+
+5. CONCLUSIONES
 
 - Algunos circuitos requieren la instalación de más de una fuente de voltaje o de corriente. Por ejemplo, la mayoría de los amplificadores operan con dos fuentes de voltaje: una fuente de cd y una de ca. Adicionalmente, algunos amplificadores requieren tanto una fuente de voltaje de cd positiva como una negativa para operar apropiadamente. Cuando en un circuito se utilizan múltiples fuentes, el teorema de superposición proporciona un método de análisis.
 
@@ -139,10 +143,10 @@ Por ultimo calculamos thevenin conectando la resistencia RL, y usamos la formula
 
 -El teorema de transferencia de potencia máxima es importante cuando se tiene que conocer el valor de la carga con la cual la fuente suministra la máxima potencia. El teorema de transferencia de potencia máxima se fórmula como sigue: Para una fuente de voltaje dada, la potencia máxima se transfiere desde una fuente hasta una carga cuando la resistencia de la carga es igual a la resistencia interna de la fuente. La resistencia de la fuente, RS, de un circuito es la resistencia equivalente vista desde la terminal de salida utilizando el teorema de Thevenin.
 
-5. BIBLIOGRAFÍA
+6. BIBLIOGRAFÍA
 
 Floyd, T. L, (2007). _PRINCIPIOS DE CIRCUITOS ELECTRICOS_. México: PEARSON EDUCACIÓN.
 
-6. RUBRICA
+7. RUBRICA
 
 ![alt text](https://github.com/jlhurtado4/InformeCorreccionExamLab/blob/main/deber%20extra/RubicasTarea.png)
