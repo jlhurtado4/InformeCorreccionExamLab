@@ -89,3 +89,4 @@ Floyd, T. L, (2007). _PRINCIPIOS DE CIRCUITOS ELECTRICOS_. México: PEARSON EDUC
 
 6. RUBRICA
 
+![alt text](https://github.com/jlhurtado4/InformeCorreccionExamLab/blob/main/deber%20extra/RubicasTarea.png)
