@@ -2,11 +2,11 @@ UNIVERSIDAD DE LAS FUERZAS ARMADAS - ESPE
 
 - NOMBRE: JUAN HURTADO
 - NRC: 7318
-- FECHA: 8 JULIO 2022
+- FECHA: 16 AGOSTO 2022
 
 # InformeCorreccionExamLab
 
-***1.-OBJETIVOS***
+1. OBJETIVOS
 
 I) Realizar la correcion del examen de labratorio numero 2
 
