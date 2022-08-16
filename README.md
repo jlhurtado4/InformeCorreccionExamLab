@@ -77,9 +77,41 @@ El objetivo del teorema de transferencia de máxima potencia es determinar el va
 
 **EJERCICIOS**
 
-1
-2
-3
+1. ![alt text](https://github.com/jlhurtado4/InformeCorreccionExamLab/blob/main/deber%20extra/Ejercicio%201.jpg) 
+
+Primero vemos cuanta corriente pasa por la resistencia de 5 ohm:
+
+![alt text](https://github.com/jlhurtado4/InformeCorreccionExamLab/blob/main/deber%20extra/Ejercicio%201_1.jpg)
+
+Luego calculamos el voltaje de thevenin:
+
+![alt text](https://github.com/jlhurtado4/InformeCorreccionExamLab/blob/main/deber%20extra/Ejercicio%201_2%20VTH.jpg)
+
+Luego calculamos la resistencia de thevenin:
+
+![alt text](https://github.com/jlhurtado4/InformeCorreccionExamLab/blob/main/deber%20extra/Ejercicio%201_3%20RTH.jpg)
+
+Una vez que obtenemos la resistencia de thevenin y el voltaje de thevenin, conectamos la resistencia RL:
+
+![alt text](https://github.com/jlhurtado4/InformeCorreccionExamLab/blob/main/deber%20extra/Ejercicio%201_4%20TH.jpg)
+
+Podemos ver que la cifra esta cerca de la corriente obtenida cuando calculamos con el circuito completo.
+
+2. ![alt text](https://github.com/jlhurtado4/InformeCorreccionExamLab/blob/main/deber%20extra/Ejercicio%202.jpg)
+
+Primero hacemos_ Cuando E1 = 0 obtenemos:
+
+![alt text](https://github.com/jlhurtado4/InformeCorreccionExamLab/blob/main/deber%20extra/Ejercicio%202_2%20E1_0%20.jpg)
+
+Luego hacemos_ Cuando E2 = 0 obtenemos:
+
+![alt text](https://github.com/jlhurtado4/InformeCorreccionExamLab/blob/main/deber%20extra/Ejercicio%202_3%20E2_0%20.jpg)
+
+Finalmente comprobamos haciendo I_total = I_E1 + I_E2 entonces:
+
+![alt text](
+
+3.
 
 4. CONCLUSIONES
 
