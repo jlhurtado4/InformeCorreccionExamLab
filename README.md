@@ -77,7 +77,9 @@ El objetivo del teorema de transferencia de máxima potencia es determinar el va
 
 **EJERCICIOS**
 
-1. ![alt text](https://github.com/jlhurtado4/InformeCorreccionExamLab/blob/main/deber%20extra/Ejercicio%201.jpg) 
+EJERCICIO NUMERO 1:
+
+![alt text](https://github.com/jlhurtado4/InformeCorreccionExamLab/blob/main/deber%20extra/Ejercicio%201.jpg) 
 
 Primero vemos cuanta corriente pasa por la resistencia de 5 ohm:
 
@@ -97,7 +99,9 @@ Una vez que obtenemos la resistencia de thevenin y el voltaje de thevenin, conec
 
 Podemos ver que la cifra esta cerca de la corriente obtenida cuando calculamos con el circuito completo.
 
-2. ![alt text](https://github.com/jlhurtado4/InformeCorreccionExamLab/blob/main/deber%20extra/Ejercicio%202.jpg)
+EJERCICIO NUMERO 2:
+
+![alt text](https://github.com/jlhurtado4/InformeCorreccionExamLab/blob/main/deber%20extra/Ejercicio%202.jpg)
 
 Primero hacemos_ Cuando E1 = 0 obtenemos:
 
@@ -109,11 +113,31 @@ Luego hacemos_ Cuando E2 = 0 obtenemos:
 
 Finalmente comprobamos haciendo I_total = I_E1 + I_E2 entonces:
 
-![alt text](
+![alt text](https://github.com/jlhurtado4/InformeCorreccionExamLab/blob/main/deber%20extra/Ejercicio%202_1%20.jpg)
 
-3.
+EJERCICIO NUMERO 3:
+
+![alt text](https://github.com/jlhurtado4/InformeCorreccionExamLab/blob/main/deber%20extra/Ejercicio%203.jpg)
+
+Primero calculamos el voltaje de thevenin:
+
+![alt text](https://github.com/jlhurtado4/InformeCorreccionExamLab/blob/main/deber%20extra/Ejercicio%203_1%20VTH.jpg)
+
+Luego calculamos la resistencia de thevenin:
+
+![alt text](https://github.com/jlhurtado4/InformeCorreccionExamLab/blob/main/deber%20extra/Ejercicio%203_2%20RTH.jpg)
+
+Por ultimo calculamos thevenin conectando la resistencia RL, y usamos la formula para calcular la potencia la cual es P = I*V
+
+![alt text](https://github.com/jlhurtado4/InformeCorreccionExamLab/blob/main/deber%20extra/Ejercicio%203_3%20TH.jpg)
 
 4. CONCLUSIONES
+
+- Algunos circuitos requieren la instalación de más de una fuente de voltaje o de corriente. Por ejemplo, la mayoría de los amplificadores operan con dos fuentes de voltaje: una fuente de cd y una de ca. Adicionalmente, algunos amplificadores requieren tanto una fuente de voltaje de cd positiva como una negativa para operar apropiadamente. Cuando en un circuito se utilizan múltiples fuentes, el teorema de superposición proporciona un método de análisis.
+
+- El teorema de Thevenin proporciona un método para simplificar un circuito a una forma equivalente estándar. Se utiliza para hacer más sencillo el análisis de circuitos complejos.
+
+-El teorema de transferencia de potencia máxima es importante cuando se tiene que conocer el valor de la carga con la cual la fuente suministra la máxima potencia. El teorema de transferencia de potencia máxima se fórmula como sigue: Para una fuente de voltaje dada, la potencia máxima se transfiere desde una fuente hasta una carga cuando la resistencia de la carga es igual a la resistencia interna de la fuente. La resistencia de la fuente, RS, de un circuito es la resistencia equivalente vista desde la terminal de salida utilizando el teorema de Thevenin.
 
 5. BIBLIOGRAFÍA
 
